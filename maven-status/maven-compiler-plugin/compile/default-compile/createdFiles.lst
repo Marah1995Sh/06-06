@@ -1,0 +1,4 @@
+com\pto\cloneProcess\CloneProcessApplication.class
+com\pto\cloneProcess\services\NewProcessImpl.class
+com\pto\cloneProcess\controller\Controller.class
+com\pto\cloneProcess\services\NewProcess.class
